@@ -1,0 +1,23 @@
+0 1 symbol = 10
+1 1 symbol = 10
+1 4 eps eps 0
+4
+
+0 1 X S 1
+1 2 X K 0
+2 1 eps S 0
+
+
+0 5 W eps 1
+1 5 W eps 1
+5 1 consonant = 1
+5 4 eps eps 1
+
+0 5 Y eps 1
+1 5 Y eps 1
+5 1 consonant = 1
+5 4 eps eps 1
+
+0 1 Z S 1
+1 1 Z S 1
+

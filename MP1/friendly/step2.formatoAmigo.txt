@@ -1,0 +1,29 @@
+0 1 symbol = 5
+1 1 symbol = 5
+0 1 eps eps 0
+1 4 eps eps 0
+4
+
+0 2 K eps 1
+2 3 N N 0
+3 1 symbol = 0
+
+0 5 G eps 1
+5 3 N N 0
+3 1 symbol = 0
+
+0 6 P eps 1
+6 3 N N 0
+3 1 symbol = 0
+
+0 7 A eps 1
+7 8 E E 0
+8 1 symbol = 0
+
+0 9 W eps 1
+9 10 R R 0
+10 1 symbol = 0
+
+1 11 M M 1
+11 12 B eps 0
+12 4 eps eps 0

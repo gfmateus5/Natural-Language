@@ -1,0 +1,22 @@
+0 0 symbol = 10
+0 1 eps eps 0
+1
+
+0 2 vowel = 1
+2 3 H eps 0
+3 0 consonant = 0
+3 1 eps eps 0
+
+0 2 C eps 1
+2 0 K K 0
+
+0 5 P F 1
+5 0 H eps 0
+
+0 0 Q K 1
+
+0 2 S X 1
+2 0 H H 0
+2 4 I I 0
+4 0 O O 0
+4 0 A A 0

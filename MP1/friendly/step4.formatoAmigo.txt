@@ -1,0 +1,11 @@
+0 0 symbol = 5
+0 0 D T 4
+0 1 eps eps 0
+1
+
+0 2 D J 1
+2 0 G G 0
+2 0 E E 0
+2 0 Y Y 0
+2 0 I I 0
+

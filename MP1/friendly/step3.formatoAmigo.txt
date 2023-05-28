@@ -1,0 +1,24 @@
+0 0 symbol = 5
+0 0 C K 1
+0 1 eps eps 0
+1
+
+0 2 S S 1
+2 3 C K 0
+3 0 H H 0
+
+0 4 C X 1
+4 0 H H 0
+
+0 5 C X 1
+5 6 I I 0
+6 0 A A 0
+
+0 7 C S 1
+7 0 I I 0
+
+0 8 C S 1
+8 0 E E 0
+
+0 9 C S 1
+9 0 Y Y 0

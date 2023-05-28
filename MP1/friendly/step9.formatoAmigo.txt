@@ -1,0 +1,7 @@
+0 1 symbol = 5
+1 1 symbol = 5
+1 2 eps eps 0
+2
+
+1 1 vowel eps 1
+
